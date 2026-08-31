@@ -1,0 +1,6 @@
+{
+  "name": "Saúde para Todos",
+  "description": "Landing page da clínica Saúde para Todos com agendamento online, especialidades médicas e atendimento humanizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
