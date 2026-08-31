@@ -39,7 +39,7 @@ export const Footer: React.FC<FooterProps> = () => {
             Terms of Service
           </a>
           <a
-            href="https://t.me/ClinicasCazombo_bot"
+            href="https://t.me/mariocazombo"
             target="_blank"
             rel="noopener noreferrer"
             id="footer-link-telegram"

@@ -53,7 +53,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenSupport, onOpenBooking }) => {
           <div className="flex flex-col sm:flex-row gap-4 pt-2">
             <a
               id="hero-cta-telegram"
-              href="https://t.me/ClinicasCazombo_bot"
+              href="https://t.me/mariocazombo"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#0056b3] hover:bg-[#003f87] text-white font-medium text-base px-6 py-3.5 rounded-lg transition-all duration-200 shadow-[0_8px_24px_rgba(0,86,179,0.2)] hover:shadow-[0_12px_28px_rgba(0,86,179,0.3)] flex items-center justify-center gap-2.5 active:scale-98"

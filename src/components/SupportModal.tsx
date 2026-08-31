@@ -53,7 +53,7 @@ export const SupportModal: React.FC<SupportModalProps> = ({ isOpen, onClose }) =
             <div className="mt-6 space-y-3">
               {/* Telegram */}
               <a
-                href="https://t.me/ClinicasCazombo_bot"
+                href="https://t.me/mariocazombo"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-between p-4 rounded-xl bg-[#0056b3] text-white hover:bg-[#003f87] transition-all shadow-sm group"
@@ -63,8 +63,8 @@ export const SupportModal: React.FC<SupportModalProps> = ({ isOpen, onClose }) =
                     <Send className="w-5 h-5 fill-current" />
                   </div>
                   <div className="text-left">
-                    <div className="text-sm font-bold">Bot do Telegram</div>
-                    <div className="text-xs text-blue-100">@ClinicasCazombo_bot (24/7)</div>
+                    <div className="text-sm font-bold">Atendimento no Telegram</div>
+                    <div className="text-xs text-blue-100">@mariocazombo (24/7)</div>
                   </div>
                 </div>
                 <span className="text-xs font-semibold bg-white/20 px-3 py-1 rounded-full">

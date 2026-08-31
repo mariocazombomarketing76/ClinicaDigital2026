@@ -80,7 +80,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSupport, onOpenBooking }) 
           </button>
           <a
             id="btn-join-telegram-header"
-            href="https://t.me/ClinicasCazombo_bot"
+            href="https://t.me/mariocazombo"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-[#0056b3] hover:bg-[#003f87] text-white text-sm font-medium px-4 py-2 rounded-lg cursor-pointer transition-all duration-200 flex items-center gap-2 shadow-sm hover:shadow active:scale-98"
@@ -93,7 +93,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSupport, onOpenBooking }) 
         {/* Mobile Menu Toggle Button */}
         <div className="flex md:hidden items-center gap-2">
           <a
-            href="https://t.me/ClinicasCazombo_bot"
+            href="https://t.me/mariocazombo"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-[#0056b3] text-white text-xs font-semibold px-3 py-1.5 rounded-lg flex items-center gap-1.5"
@@ -160,13 +160,13 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSupport, onOpenBooking }) 
               <span>Falar com Atendimento</span>
             </button>
             <a
-              href="https://t.me/ClinicasCazombo_bot"
+              href="https://t.me/mariocazombo"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full text-center bg-[#0056b3] text-white py-2.5 rounded-lg text-sm font-medium flex items-center justify-center gap-2 hover:bg-[#003f87]"
             >
               <Send className="w-4 h-4" />
-              <span>Agendar via Telegram (@ClinicasCazombo_bot)</span>
+              <span>Agendar via Telegram (@mariocazombo)</span>
             </a>
           </div>
         </div>

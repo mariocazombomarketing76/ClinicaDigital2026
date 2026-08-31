@@ -94,7 +94,7 @@ export const Specialties: React.FC = () => {
 
               <div className="mt-auto pt-2">
                 <a
-                  href="https://t.me/ClinicasCazombo_bot"
+                  href="https://t.me/mariocazombo"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center text-sm font-semibold text-[#0056b3] hover:text-[#003f87] transition-colors gap-1.5"

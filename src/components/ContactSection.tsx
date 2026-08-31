@@ -42,7 +42,7 @@ export const ContactSection: React.FC = () => {
 
             <div className="space-y-4 pt-2">
               <a
-                href="https://t.me/ClinicasCazombo_bot"
+                href="https://t.me/mariocazombo"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 p-4 rounded-xl bg-[#0056b3] text-white hover:bg-[#003f87] transition-all shadow-md group"
@@ -55,7 +55,7 @@ export const ContactSection: React.FC = () => {
                     Canal Principal
                   </div>
                   <div className="text-base font-bold">
-                    Agendar no Telegram (@ClinicasCazombo_bot)
+                    Agendar no Telegram (@mariocazombo)
                   </div>
                 </div>
               </a>
@@ -105,7 +105,7 @@ export const ContactSection: React.FC = () => {
                 </p>
                 <div className="pt-4">
                   <a
-                    href="https://t.me/ClinicasCazombo_bot"
+                    href="https://t.me/mariocazombo"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 bg-[#0056b3] text-white px-6 py-3 rounded-lg font-semibold text-sm hover:bg-[#003f87] transition-colors"

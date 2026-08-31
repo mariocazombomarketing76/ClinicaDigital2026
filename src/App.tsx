@@ -17,7 +17,7 @@ export default function App() {
   const [supportModalOpen, setSupportModalOpen] = useState(false);
 
   const handleOpenBooking = () => {
-    window.open('https://t.me/ClinicasCazombo_bot', '_blank', 'noopener,noreferrer');
+    window.open('https://t.me/mariocazombo', '_blank', 'noopener,noreferrer');
   };
 
   return (
